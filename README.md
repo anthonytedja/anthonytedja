@@ -2,7 +2,7 @@
 
 <h3 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm Anthony Tedja</h3>
 
-<h4 align="center">I can't code :p</h4>
+<h4 align="center"><code>I can't code :p</code></h4>
 
 <br />
 

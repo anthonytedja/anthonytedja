@@ -1,6 +1,6 @@
 <br>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm Anthony Tedja</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey, I'm <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Anthony Tedja</a></h1>
 
 <h4 align="center"><code>> I can't code :p</code></h4>
 

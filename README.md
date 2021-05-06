@@ -2,13 +2,13 @@
 
 <h1 align="center">
 
-<img src="assets/wave.gif" width="25px"> Hey, I'm <a href="http://www.chickenroad.org/" target="_blank">Anthony Tedja</a> <br><br><br>
+<img src="assets/wave.gif" target="_blank" width="25px"> Hey, I'm <a href="http://www.chickenroad.org/" target="_blank">Anthony Tedja</a> <br><br><br>
 
 <a href="https://unsplash.com/@anthonytedja"><img src="assets/rimuru.gif" width="200px"></a>
 
 </h1>
 
-<a href="https://github.com/anthonytedja"><h4 align="center"><code>> I can't code :)</code></h4></a>
+<a href="https://github.com/anthonytedja" target="_blank"><h4 align="center"><code>> I can't code :)</code></h4></a>
 
 <br>
 

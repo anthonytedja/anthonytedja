@@ -4,11 +4,11 @@
 
 <img src="assets/wave.gif" width="25px"> Hey, I'm <a href="https://anthonytedja.github.io/" target="_blank">Anthony Tedja</a> <br><br><br>
 
-<a href="https://github.com/anthonytedja"><img src="assets/rimuru.gif" width="200px"></a>
+<a href="http://www.chickenroad.org/"><img src="assets/rimuru.gif" width="200px"></a>
 
 </h1>
 
-<a href="http://www.chickenroad.org/"><h4 align="center"><code>> I can't code :)</code></h4></a>
+<a href="https://anthonytedja.github.io/resume.pdf"><h4 align="center"><code>> I can't code :)</code></h4></a>
 
 <br>
 

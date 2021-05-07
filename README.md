@@ -8,7 +8,7 @@
 
 </h1>
 
-<a href="https://anthonytedja.github.io/resume.pdf"><h4 align="center"><code>> I can't code :)</code></h4></a>
+<a href="https://anthonytedja.github.io/resume.pdf"><h4 align="center"><code>> resume.pdf</code></h4></a>
 
 <br>
 

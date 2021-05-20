@@ -2,7 +2,7 @@
 
 <h1 align="center">
 
-<img src="assets/wave.gif" width="25px"> Hey, I'm <a href="https://anthonytedja.github.io/" target="_blank">Anthony Tedja</a> <br><br><br>
+<img src="assets/wave.gif" width="25px"> Hello World, I'm <a href="https://anthonytedja.github.io/" target="_blank">Anthony Tedja</a> <br><br><br>
 
 <a href="http://www.chickenroad.org/"><img src="assets/rimuru.gif" width="200px"></a>
 

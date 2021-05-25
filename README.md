@@ -11,7 +11,7 @@
   </a>
 </h1>
 
-<br>
+<br><br>
 
 <p align="center">
   <a href="mailto:anthonytedja27@gmail.com">
@@ -28,7 +28,5 @@
   </a>
 </p>
 
-<a href="https://anthonytedja.github.io/resume.pdf">
-  <h4 align="center"><code>> resume.pdf</code></h4>
-</a>
+<a href="https://anthonytedja.github.io/resume.pdf"><h4 align="center"><code>> resume.pdf</code></h4></a>
 <br>

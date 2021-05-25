@@ -25,4 +25,5 @@
     <img alt="Anthony's Twitter" width="25px" src="assets/twitter.svg" />
   </a>
 </p>
+
 <a href="https://anthonytedja.github.io/resume.pdf"><h4 align="center"><code>> resume.pdf</code></h4></a>

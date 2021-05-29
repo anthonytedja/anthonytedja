@@ -1,8 +1,8 @@
-<svg style="margin: 0; height: 50vh; overflow: hidden; background-repeat: no-repeat;" width="100%" viewBox="-145 97 500 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg style="margin: 0; height: 50vh; overflow: hidden; background-repeat: no-repeat;" width="100%" viewBox="-147 97 500 30" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <path id="path">
     <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="12s" begin="4s" fill="freeze" />
   </path>
-  <text font-size="15" font-family="Arial" font-weight="540">
+  <text font-size="15" font-family="Arial" font-weight="550">
     <textPath xlink:href="#path">Welcome to my Github Page ;)</textPath>
   </text>
 </svg>

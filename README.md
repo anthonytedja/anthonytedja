@@ -2,7 +2,6 @@
 
 [![Anthony Tedja](assets/name.svg)](https://anthonytedja.github.io/)
 
-<br>
 <p align="center">
   <a href="http://www.chickenroad.org/">
     <img src="assets/rimuru.gif" width="200px">

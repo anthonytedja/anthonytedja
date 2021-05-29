@@ -1,4 +1,5 @@
-<br>
+![Anthony Tedja](assets/name.svg)
+
 <h1 align="center">
   <img src="assets/wave.gif" width="25px">
   Hello World, <br> I'm

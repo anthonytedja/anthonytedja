@@ -1,9 +1,8 @@
-<svg style="margin: 0; height: 50vh; overflow: hidden; background-repeat: no-repeat;" width="100%" viewBox="-75 50 500 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg style="margin: 0; height: 50vh; overflow: hidden; background-repeat: no-repeat;" width="100%" viewBox="-80 50 500 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <path id="path">
-    <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="8s" begin="2s" fill="freeze" />
+    <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="8s" begin="1s" fill="freeze" />
   </path>
-  <text font-size="30" font-family="Arial" font-weight="bold" fill='black'>
-    <textPath xlink:href="#path">Hey! I'm Anthony Tedja.
-    </textPath>
+  <text font-size="30" font-family="Arial" font-weight="bold">
+    <textPath xlink:href="#path">Hey! I'm <a href="https://anthonytedja.github.io/" style="color: blue">Anthony Tedja.</a></textPath>
   </text>
 </svg>

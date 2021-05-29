@@ -1,18 +1,9 @@
-![Anthony Tedja](assets/name.svg)
-
-<h1 align="center">
-  <img src="assets/wave.gif" width="25px">
-  Hello World, <br> I'm
-  <a href="https://anthonytedja.github.io/">
-    Anthony Tedja
-  </a> :)
-  <br><br><br>
+[![Anthony Tedja](assets/name.svg)](https://anthonytedja.github.io/)
+<p align="center">
   <a href="http://www.chickenroad.org/">
     <img src="assets/rimuru.gif" width="200px">
   </a>
-</h1>
-<br><br>
-<p align="center">
+  <br><br>
   <a href="mailto:anthonytedja27@gmail.com">
     <img alt="Anthony's Email" width="25px" src="assets/gmail.svg" />
   </a>

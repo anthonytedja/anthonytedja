@@ -10,16 +10,16 @@
   </a>
   <br><br>
   <a href="mailto:anthonytedja27@gmail.com">
-    <img alt="Email" width="28px" src="assets/gmail.svg" />
+    <img alt="Email" width="28px" src="assets/gmail.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/anthonytedja/">
-    <img alt="LinkedIn" width="28px" src="assets/linkedin.svg" />
+    <img alt="LinkedIn" width="28px" src="assets/linkedin.svg"/>
   </a>
   <a href="https://www.instagram.com/anthonytedja/">
-    <img alt="Instagram" width="28px" src="assets/instagram.svg" />
+    <img alt="Instagram" width="28px" src="assets/instagram.svg"/>
   </a>
   <a href="https://twitter.com/anthonytedja27">
-    <img alt="Twitter" width="28px" src="assets/twitter.svg" />
+    <img alt="Twitter" width="28px" src="assets/twitter.svg"/>
   </a>
 </p>
 

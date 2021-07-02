@@ -1,7 +1,7 @@
 <br>
 
 [![Name](assets/name.svg)](https://anthonytedja.github.io/)
-[![Header](assets/header.svg)](https://anthonytedja.github.io/)
+[![Header](assets/header.svg)](https://github.com/anthonytedja)
 
 <br>
 

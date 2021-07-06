@@ -3,6 +3,6 @@
     <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="8s" begin="3.5s" fill="freeze" />
   </path>
   <text font-size="15" font-family="Arial" font-weight="550" style="stroke: white; stroke-width: .1px;">
-    <textPath xlink:href="#path">Welcome to my Github Page ;)</textPath>
+    <textPath xlink:href="#path">Welcome to my Github Page :)</textPath>
   </text>
 </svg>

@@ -6,7 +6,7 @@
 <br>
 
 <p align="center">
-  <a href="http://www.chickenroad.org/">
+  <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="assets/rimuru.gif" width="200px">
   </a>
   <br><br>

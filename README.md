@@ -24,4 +24,6 @@
   </a>
 </p>
 
-<a href="https://anthonytedja.github.io/resume.pdf"><h4 align="center"><code>> resume.pdf</code></h4></a>
+<br>
+
+<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=anthonytedja.anthonytedja" alt="visitor badge"/></div>

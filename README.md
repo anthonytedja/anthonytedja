@@ -26,4 +26,4 @@
 
 <br>
 
-<div align="center"><img src="https://visitor-badge.deta.dev/badge?page_id=anthonytedja.anthonytedja" alt="visitor badge"/></div>
+<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=anthonytedja.anthonytedja" alt="visitor badge"/></div>

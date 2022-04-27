@@ -1,4 +1,4 @@
-<svg style="margin: 10px 0; background-repeat: no-repeat;" width="100%" viewBox="-25 95 300 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg style="margin: 0; background-repeat: no-repeat;" width="100%" viewBox="-25 95 300 25" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <path id="path">
     <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="8s" begin="3.5s" fill="freeze" />
   </path>

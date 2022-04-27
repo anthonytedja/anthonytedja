@@ -1,8 +1,8 @@
-<svg style="margin: 0; background-repeat: no-repeat;" width="100%" viewBox="0 75 350 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<svg style="margin: 10px 0; background-repeat: no-repeat;" width="100%" viewBox="0 75 350 50" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
   <path id="path">
     <animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6s" begin="1s" fill="freeze" />
   </path>
   <text font-size="30.75" font-family="Arial" font-weight="550" style="fill: #24292f; stroke: #c9d1d9; stroke-width: 0.25;">
-    <textPath xlink:href="#path">Hey! I'm <a style="text-decoration: underline; stroke: none; fill: #0266D6" href="https://anthonytedja.github.io/">Anthony Tedja.</a></textPath>
+    <textPath xlink:href="#path">Hey, I'm <a style="text-decoration: underline; stroke: none; fill: #0266D6" href="https://anthonytedja.github.io/">Anthony Tedja!</a></textPath>
   </text>
 </svg>

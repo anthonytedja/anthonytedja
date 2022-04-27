@@ -1,13 +1,18 @@
-<br>
 
 [![Name](assets/name.svg)](https://anthonytedja.github.io/)
 [![Header](assets/header.svg)](https://github.com/anthonytedja)
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ">
-    <img src="assets/rimuru.gif" width="200px">
+    <img align="center" src="assets/rimuru.gif" width="175px">
+  </a>
+  <a href="https://github.com/anthonytedja/anthonytedja">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anthonytedja&show_icons=true&line_height=24&count_private=true&hide_rank=true&hide=issues&title_color=ffffff&text_color=c9cacc&icon_color=c6cfef&bg_color=1d1f21" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anthonytedja/anthonytedja">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonytedja&title_color=ffffff&text_color=c9cacc&icon_color=c6cfef&bg_color=1d1f21&langs_count=6&layout=compact" alt="GitHub Languages"/>
   </a>
   <br><br>
   <a href="mailto:anthonytedja27@gmail.com">
@@ -22,8 +27,6 @@
   <a href="https://twitter.com/anthonytedja27">
     <img alt="Twitter" width="28px" src="assets/twitter.svg"/>
   </a>
-</p>
-
-<br>
-
-<div align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=anthonytedja.anthonytedja" alt="visitor badge"/></div>
+  <br><br>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=anthonytedja.anthonytedja" alt="visitor badge"/>
+</div>

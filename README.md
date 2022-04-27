@@ -59,7 +59,6 @@
   </a>
 
   <br><br>
-
   <!---
   <a href="https://youtu.be/dQw4w9WgXcQ">
     <img src="assets/rimuru.gif" width="100px">

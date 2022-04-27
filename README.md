@@ -15,7 +15,6 @@
 
   <br><br>
 
-  ![Vistor Badge](https://visitor-badge.glitch.me/badge?page_id=anthonytedja.anthonytedja&left_text=Visitors&left_color=blue)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=navyblue)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -35,12 +34,14 @@
   ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat&logo=spyder%20ide&logoColor=white)
   ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
   ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
   ![Postgre](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
   ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white)
   ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=flat&logo=haskell&logoColor=white)
   ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=flat&logo=latex&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Vistor Badge](https://visitor-badge.glitch.me/badge?page_id=anthonytedja.anthonytedja&left_text=Visitors&left_color=blue)
+  
 
   <br>
 
@@ -57,7 +58,7 @@
     <img alt="Twitter" width="30px" src="assets/twitter.svg"/>
   </a>
 
-  <br>
+  <br><br>
 
   <!---
   <a href="https://youtu.be/dQw4w9WgXcQ">

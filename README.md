@@ -1,6 +1,6 @@
 \
-[![Name](assets/name.svg)](https://anthonytedja.github.io/)
-[![Header](assets/header.svg)](https://anthonytedja.github.io/)
+[![Name](assets/name.svg)](https://anthonytedja.me)
+[![Header](assets/header.svg)](https://anthonytedja.me)
 
 <div align="center">
 
